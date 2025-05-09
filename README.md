@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/a26b61eb-68f2-41a7-a066-e8e05edc124c
 
-# Banking System
+# Java-Based Banking System: MVC Architecture with GUI and Database Integration (MySQL)
 
 A simple, modern desktop banking system built with Java Swing and MySQL.  
 This project demonstrates core banking operations, user authentication, and a user-friendly graphical interface for both administrators and customers.
